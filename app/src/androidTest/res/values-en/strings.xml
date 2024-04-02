@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">MyCurrency</string>
+    <string name="market">Market</string>
+    <string name="equity">Equity</string>
+    <string name="balance">Balance</string>
+    <string name="margin">Margin</string>
+    <string name="used">Used</string>
+    <string name="symbol">Symbol</string>
+    <string name="change">Change</string>
+    <string name="sell">Sell</string>
+    <string name="buy">Buy</string>
+</resources>

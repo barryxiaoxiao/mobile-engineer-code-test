@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.xiaoyu">
+
+  <application
+    android:name=".TestRoboApplication"
+    android:theme="@style/Theme.WPB">
+    <activity
+      android:name=".TestRoboActivity"
+      android:screenOrientation="portrait"
+      android:theme="@style/Theme.WPB" />
+  </application>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+</manifest>
